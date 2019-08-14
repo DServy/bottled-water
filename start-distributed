@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 DYNO_CONNECT_DISTRIBUTED_PROPERTIES_FILE="dyno-connect-distributed.properties"
-DEBEZIUM_CONNECTOR_URL="https://repo1.maven.org/maven2/io/debezium/debezium-connector-postgres/0.7.2/debezium-connector-postgres-0.7.2-plugin.tar.gz"
+DEBEZIUM_CONNECTOR_URL="https://repo1.maven.org/maven2/io/debezium/debezium-connector-postgres/0.9.5.Final/debezium-connector-postgres-0.9.5.Final-plugin.tar.gz"
 
 ./setup_certs KAFKA
 
